@@ -4,7 +4,7 @@ variable "region" {
 variable "tags" {
   type = map(any)
   default = {
-    "Name"    = "test3"
-    "Creator" = "Me"
+    "Name"    = "TestServer"
+    "Creator" = "Pavel Pavlov"
   }
 }
